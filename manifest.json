@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "steamID simple copy",
+  "description": "Выводим steamID на странице, в удобном формате с кнопкой для копирования",
+  "version": "1.0",
+  "author": "angrypy",
+  "browser_action": {
+    "default_title": "Вывод steamID",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://steamcommunity.com/*"],
+      "js": ["content.js"],
+      "css": ["steamId.css"]
+    }
+  ],
+  "permissions": ["activeTab"]
+}
