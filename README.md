@@ -9,13 +9,14 @@
 This is an unpacked plugin for Google Chrome
 Shows the SteamID of the open Steam profile. Allows you to copy it, copy it in the SteamID 'Nickname' format and copy just a link to your Steam profile
 
-**Guide:**
-
-![Альтернативный текст](https://i.imgur.com/bauLCna.gif "gif guide")
-
-
 **How to install:**
 
 **Firefox:** https://addons.mozilla.org/ru/firefox/addon/steamid-simple-copy/
 
 **Google Chrome:** Install in developer mode
+
+**What is this extension:**
+
+![Альтернативный текст](https://i.imgur.com/bauLCna.gif "gif guide")
+
+
