@@ -12,3 +12,10 @@ Shows the SteamID of the open Steam profile. Allows you to copy it, copy it in t
 **Guide:**
 
 ![Альтернативный текст](https://i.imgur.com/bauLCna.gif "gif guide")
+
+
+**How to install:**
+
+**Firefox:** https://addons.mozilla.org/ru/firefox/addon/steamid-simple-copy/
+
+**Google Chrome:** Install in developer mode
