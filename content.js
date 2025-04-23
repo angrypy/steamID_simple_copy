@@ -1,6 +1,6 @@
 
 
-		let insertSteamidPlace = document.querySelector('.persona_name');		
+		let insertSteamidPlace = document.querySelector('.persona_name');
 		let getPageSourceCode = document.querySelector('div#responsive_page_template_content')
 		let arrSteamID = getPageSourceCode.textContent.match(/(?<="steamid":")(.+)(?=","personaname)/)
 		let arrNickname = getPageSourceCode.textContent.match(/(?<="personaname":")(.+?)(?=")/)
